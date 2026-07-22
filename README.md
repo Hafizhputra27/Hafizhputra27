@@ -48,7 +48,7 @@ Information Systems student at **Universitas Widyatama**, Bandung — turning id
 | 🌾 **[FarmBridge](https://github.com/Hafizhputra27/FarmBridge)** | Mobile app connecting farmers to market access | Dart / Flutter |
 | 🏫 **[SIAKAD Widyatama — Mobile](https://github.com/Hafizhputra27/SIAKAD-Widyatama-Mobile-App)** | Academic information system, mobile client | Kotlin |
 | 🖥️ **[SIAKAD Widyatama — Web Admin](https://github.com/Hafizhputra27/SIAKAD-Widyatama-Web-Admin)** | Academic information system, admin dashboard | TypeScript |
-| ✍️ **[SIGNE](https://github.com/Hafizhputra27/SIGNE)** | Digital signature / document workflow app | JavaScript |
+| ✍️ **[SIGNE](https://github.com/Hafizhputra27/SIGNE)** | Smart Inclusive Guide for New Educators: AI speech-to-text real-time yang menerjemahkan ucapan ke bahasa isyarat BISINDO untuk guru di sekolah inklusif (proyek Samsung Solve for Tomorrow 2026). | Python |
 
 > 🔗 Full case studies and live demos: **[hafizhkp.my.id](https://hafizhkp.my.id)**
 
