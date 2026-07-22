@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Ahmad+Hafizh+Karunia+Putra+%F0%9F%91%8B;Project+Manager+%C2%B7+Full-Stack+Developer;Building+with+React%2C+Node.js+%26+AI" alt="Typing SVG" />
 
-### 🚀 Project Manager · Full-Stack Developer · Innovator
+### 🚀 Project Manager · Full-Stack Developer
 Information Systems student at **Universitas Widyatama**, Bandung — turning ideas into shipped products.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hafizhkp.my.id-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hafizhkp.my.id)
